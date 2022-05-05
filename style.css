@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Harmattan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Tajawal:wght@500&display=swap');
+body {
+background-color: #33383E;
+}
+
+.grid {
+width: 230px;
+height: 490px;
+margin: 0 auto;
+background-color: #fff;
+padding: 10px 50px 50px 50px;
+border-radius: 50px;
+border: 2px solid #cbcbcb;
+
+}
+
+.grid h1 {
+font-family: 'Noto Sans Arabic', sans-serif;
+background-color: #1972E8;
+font-size: 33px;
+text-align: center;
+color: #ffffff;
+padding: 0px 0px;
+border-radius: 50px;
+}
+
+#score {
+  
+
+font-family: 'Harmattan', Sans-Serif;
+text-align: center;
+font-size: 60px;
+}
+
+
+.grid #question {
+font-family: 'Harmattan', sans-serif;
+font-size: 25px;
+color: #000000;
+text-align: center; 
+}
+
+
+.buttons {
+margin-top: 0px;
+}
+
+#bt0, #bt1, #bt2, #bt3 {
+background-color: #1972E8;
+width: 240px;
+font-family: 'Harmattan', sans-serif;
+font-size: 17px;
+color: #fff;
+border: 1px solid #1D3C6A;
+border-radius: 50px;
+margin: 0px 10px 10px 0px;
+padding: 10px 10px;
+}
+
+#bt0:hover, #bt1:hover, #bt2:hover, #bt3:hover {
+cursor: pointer;
+background-color: #1972E8; 
+}   
+
+#bt0: focus, #bt1: focus, #bt2: focus, #bt3: focus {
+outline: 0;
+}
+
+#progress {
+color: #2b2b2b;
+font-size: 13px;
+float: right;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
